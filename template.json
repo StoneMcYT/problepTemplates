@@ -55,6 +55,10 @@
         {
             "name": "KingHarry Template",
             "url": "https://raw.githubusercontent.com/KingHarry25/2023placething/main/maneplace/manescript.json"
+        },
+        {
+            "name": "PlaceCanvasTemplate",
+            "url": "https://raw.githubusercontent.com/O3nboi/PlaceCanvasTemplate/main/template.json"
         }
     ],
     "blacklist": []
