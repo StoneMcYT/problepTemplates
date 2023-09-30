@@ -10,6 +10,14 @@
              "x": 451,
              "y": 256
          }
+       {
+             "name": "Cloud",
+             "sources": [
+                 "https://media.discordapp.net/attachments/1139737790318379011/1157630527638081607/PeekingCloudBeta.png?ex=65194ef1&is=6517fd71&hm=a79b1543ef5754232eee8d5cad6244cfafe49f6c8a3897be11a8872fc3e73c49&="
+             ],
+             "x": 459,
+             "y": 356
+         },
      ]
  }
  
