@@ -17,6 +17,14 @@
       ],
       "x": 482,
       "y": 356
+    },
+    {
+      "name": "JOHNCAPCOM",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/936731324474085407/1157635407056474212/john.png"
+      ],
+      "x": 68,
+      "y": 6
     }
   ]
 }
