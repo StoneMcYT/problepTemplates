@@ -33,6 +33,14 @@
       ],
       "x": 395,
       "y": 127
+    },
+      {
+      "name": "Swiswi",
+      "sources": [
+        "https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/the_siwwi.png"
+      ],
+      "x": 109,
+      "y": 237
     }
   ]
 }
