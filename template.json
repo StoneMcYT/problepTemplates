@@ -41,6 +41,14 @@
       ],
       "x": 109,
       "y": 237
+    },
+    {
+      "name": "Minuette",
+      "sources": [
+        "https://raw.githubusercontent.com/O3nboi/problepTemplates/main/image/minuette1x1.png"
+      ],
+      "x": 298,
+      "y": 92
     }
   ]
 }
