@@ -5,7 +5,7 @@
     {
       "name": "Dashie",
       "sources": [
-        "https://media.discordapp.net/attachments/1157617554433519656/1157621044375461909/blepdash.png?ex=6519461c&is=6517f49c&hm=598cc9593c288184e45e8c4c35c7b2039fef3d0f09c24975cbb755e103f02027&="
+        "https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/blepdash.png"
       ],
       "x": 451,
       "y": 256
@@ -13,7 +13,7 @@
     {
       "name": "Cloud",
       "sources": [
-        "https://media.discordapp.net/attachments/1139737790318379011/1157630527638081607/PeekingCloudBeta.png?ex=65194ef1&is=6517fd71&hm=a79b1543ef5754232eee8d5cad6244cfafe49f6c8a3897be11a8872fc3e73c49&="
+        "https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/PeekingCloudBeta.png"
       ],
       "x": 459,
       "y": 356
