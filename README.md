@@ -1,30 +1,36 @@
-# problepTemplates
+# Problep Templates Guide
 
-## Adding To Template
-Before starting make sure you have a 1:1 and make sure you know the top left X and Y cord of the image.
+## Adding to a Template
 
+Before you begin, ensure that you have a 1:1 image, and you know the top-left X and Y coordinates of the image.
 
-## First fork the Repo:
-https://stonemcyt.github.io/susFic/docs/howToAdd
-**Read First fork the webpage**
+## First, Fork the Repository
 
+Start by forking the repository using the following link: [How to Fork](https://stonemcyt.github.io/susFic/docs/howToAdd). Be sure to read the instructions on forking the webpage carefully.
 
-## Adding Files:
-Once forked head to the images folder and hit add files then click upload files
-![image](https://github.com/StoneMcYT/problepTemplates/assets/67421882/b29c1142-d62b-443a-b920-5bdefa8898be)
+## Adding Files
 
-## Updating template json
-![image](https://github.com/StoneMcYT/problepTemplates/assets/67421882/af3f7818-722f-47f9-ac63-59445e85f0f1)
-![image](https://github.com/StoneMcYT/problepTemplates/assets/67421882/1dc13437-c283-4465-9786-d0652889bd38)
-Copy paste this section
-![image](https://github.com/StoneMcYT/problepTemplates/assets/67421882/9e85a3f2-8087-44d6-b95f-735d4ef4c807)
+Once you've successfully forked the repository, navigate to the 'images' folder. Click on the 'Add files' button and then select 'Upload files'.
 
-Should look like this
-![image](https://github.com/StoneMcYT/problepTemplates/assets/67421882/927f7599-5d0c-450f-84f0-c6987f846d82)
-Then change the X Y values 
+![Upload Files](https://github.com/StoneMcYT/problepTemplates/assets/67421882/b29c1142-d62b-443a-b920-5bdefa8898be)
 
-for the link change it to `https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/<yourImageName>`
+## Updating the Template JSON
 
-## Joining it with template 
-https://stonemcyt.github.io/susFic/docs/howToAdd
-**Read Adding them to the main site**
+Next, you need to update the template JSON. You will find specific images to use for this process:
+
+1. ![Image 1](https://github.com/StoneMcYT/problepTemplates/assets/67421882/af3f7818-722f-47f9-ac63-59445e85f0f1)
+2. ![Image 2](https://github.com/StoneMcYT/problepTemplates/assets/67421882/1dc13437-c283-4465-9786-d0652889bd38)
+
+Copy and paste the relevant section from the images as shown below:
+
+![Copy Section](https://github.com/StoneMcYT/problepTemplates/assets/67421882/9e85a3f2-8087-44d6-b95f-735d4ef4c807)
+
+It should look like this:
+
+![Updated Section](https://github.com/StoneMcYT/problepTemplates/assets/67421882/927f7599-5d0c-450f-84f0-c6987f846d82)
+
+Now, modify the X and Y values. For the link, change it to `https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/<yourImageName>`.
+
+## Integrating it with the Template
+
+To integrate your changes with the template, refer to the following link: [How to Add Templates to the Main Site](https://stonemcyt.github.io/susFic/docs/howToAdd). Make sure to read the instructions on adding them to the main site.
