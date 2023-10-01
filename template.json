@@ -65,6 +65,14 @@
       ],
       "x": 54,
       "y": 0
+    },
+    {
+      "name": "JohnKirin",
+      "sources": [
+        "https://raw.githubusercontent.com/O3nboi/problepTemplates/main/image/kirin1x1col.png"
+      ],
+      "x": 113,
+      "y": 1
     }
   ],
     "whitelist": [
