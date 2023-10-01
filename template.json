@@ -57,6 +57,14 @@
       ],
       "x": 180,
       "y": 457
+    },
+    {
+      "name": "Glim",
+      "sources": [
+        "https://raw.githubusercontent.com/O3nboi/problepTemplates/main/image/glim.png"
+      ],
+      "x": 54,
+      "y": 0
     }
   ],
     "whitelist": [
