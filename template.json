@@ -89,6 +89,14 @@
       ],
       "x": 0,
       "y": 0
+    },
+    {
+      "name": "PixelMons",
+      "sources": [
+        "https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/pixelmon.png"
+      ],
+      "x": 0,
+      "y": 415
     }
   ],
     "whitelist": [
