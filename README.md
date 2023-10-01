@@ -37,7 +37,7 @@ It should look like this:
 
 ![Updated Section](https://github.com/StoneMcYT/problepTemplates/assets/67421882/927f7599-5d0c-450f-84f0-c6987f846d82)
 
-Now, modify the X and Y values. For the link, change it to `https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/<yourImageName>`.
+Now, modify the X and Y values as well as the name. For the link, change it to `https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/<yourImageName>`.
 
 ## Integrating it with the Template
 
