@@ -19,14 +19,6 @@
       "y": 356
     },
     {
-      "name": "JOHNCAPCOM",
-      "sources": [
-        "https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/john.png"
-      ],
-      "x": 68,
-      "y": 6
-    },
-    {
       "name": "DragonM97 Dashie With Glasses",
       "sources": [
         "https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/rainbowglasses.png"
@@ -41,6 +33,25 @@
       ],
       "x": 109,
       "y": 237
+    },
+    {
+      "name": "Minuette",
+      "sources": [
+        "https://raw.githubusercontent.com/O3nboi/problepTemplates/main/image/minuette1x1.png"
+      ],
+      "x": 298,
+      "y": 92
     }
-  ]
+  ],
+    "whitelist": [
+        {
+            "name": "KingHarry Template",
+            "url": "https://raw.githubusercontent.com/KingHarry25/2023placething/main/maneplace/manescript.json"
+        },
+        {
+            "name": "PlaceCanvasTemplate",
+            "url": "https://raw.githubusercontent.com/O3nboi/PlaceCanvasTemplate/main/template.json"
+        }
+    ],
+    "blacklist": []
 }
