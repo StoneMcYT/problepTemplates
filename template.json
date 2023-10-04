@@ -3,14 +3,6 @@
   "contact": "put your discord name here",
   "templates": [
     {
-      "name": "Dashie",
-      "sources": [
-        "https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/blepdash.png"
-      ],
-      "x": 451,
-      "y": 256
-    },
-    {
       "name": "Cloud",
       "sources": [
         "https://raw.githubusercontent.com/StoneMcYT/problepTemplates/main/image/PeekingCloudBeta.png"
